@@ -1,7 +1,5 @@
 # Hi there, I'm Ayushman.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
 ## 🚀 About Me
 
 I'm really passionate about programming, and love learning about newer technologies and frameworks. I enjoy full-stack development, and really like learning about the math that powers ML.
