@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm really passionate about programming, and love learning about newer technologies and frameworks. I enjoy full-stack development, and really like learning about the math that powers ML.
+I'm really passionate about programming, and love learning about newer technologies and frameworks. I enjoy full-stack development, and building both impactful and stupid things.
 
 ## 🛠️ Technologies & Tools
 
