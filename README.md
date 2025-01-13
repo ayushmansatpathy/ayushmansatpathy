@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm really passionate about programming, and love learning about newer technologies and frameworks. I enjoy full-stack development, and building both impactful and stupid things.
+I'm really passionate about programming, and love learning about newer technologies and frameworks. I enjoy full-stack development, and building things to solve both major problems and slight inconveniences.
 
 ## 🛠️ Technologies & Tools
 
